@@ -1,0 +1,17 @@
+Placeholder ZIP: ESP32-S3 Compact Dev Board package
+
+This ZIP currently contains the placeholder Gerber files and a README. I will replace this with the full KiCad project, fabrication-ready Gerbers, BOM, and pick-and-place files after completing layout and DRC unless you ask me to generate final Gerbers now.
+
+Files included (placeholder):
+- gerbers/README.md
+- gerbers/board.GTL (placeholder)
+- gerbers/board.GBL (placeholder)
+- gerbers/board.GTS (placeholder)
+- gerbers/board.GBS (placeholder)
+- gerbers/board.GTO (placeholder)
+- gerbers/board.GBO (placeholder)
+- gerbers/board.GKO (placeholder)
+- gerbers/drill.drl (placeholder)
+- gerbers/COMMIT_NOTES.txt
+
+To get the real ZIP with final files, reply: "generate final gerbers" and I will perform the schematic capture, placement, routing, DRC, and export the production Gerbers and full KiCad project and then update the ZIP in this branch.
