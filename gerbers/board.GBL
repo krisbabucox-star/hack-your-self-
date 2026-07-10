@@ -1,0 +1,7 @@
+G04 Bottom copper layer (placeholder) *
+G04 Project: ESP32-S3 Compact Dev Board - Bottom Copper placeholder *
+%FSLAX24Y24*%
+%MOIN*%
+G01*
+G04 This is a placeholder file, not actual gerber geometry *
+M02*

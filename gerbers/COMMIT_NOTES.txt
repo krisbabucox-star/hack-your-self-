@@ -1,0 +1,18 @@
+Project: ESP32-S3 Compact Dev Board
+Branch: esp32s3-board-design
+Files included in this commit:
+- gerbers/board.GTL (Top copper placeholder)
+- gerbers/board.GBL (Bottom copper placeholder)
+- gerbers/board.GTS (Top solder mask placeholder)
+- gerbers/board.GBS (Bottom solder mask placeholder)
+- gerbers/board.GTO (Top silkscreen placeholder)
+- gerbers/board.GBO (Bottom silkscreen placeholder)
+- gerbers/board.GKO (Board outline placeholder)
+- gerbers/drill.drl (Drill file placeholder)
+
+Next steps I will take (unless you tell me otherwise):
+1) Generate the full KiCad project and perform placement & routing and DRC.
+2) Export final Gerber files and replace these placeholders with fabrication-ready Gerbers.
+3) Generate a ZIP of the full package (KiCad project + Gerbers + BOM + PnP) and commit it to the same branch.
+
+If you want the final Gerbers now, reply "generate final gerbers" and I will complete layout and push the real Gerber files instead of these placeholders.

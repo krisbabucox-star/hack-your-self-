@@ -1,0 +1,10 @@
+%FSLAX24Y24*%
+%MOIN*%
+;Excellon drill file placeholder
+M48
+;METRIC
+;TOOL
+;T01C0.812
+M95
+; This is a placeholder drill file. Replace with actual Excellon drill output from KiCad.
+M30
